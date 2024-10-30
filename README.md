@@ -20,7 +20,7 @@ Para melhor visualizar a interação do usuário com a aplicação a ser desenvo
 
 ### Figura 1 - Diagrama de Casos de Uso do Projeto
 
-<img src="UML_caso_de_uso.jpg" height="300px" >
+<img src="UML_caso_de_uso.jpg" height="600px" >
 
 Um diagrama de atividade da UML é um fluxograma que pode ser utilizado para representar as ações executadas por um sistema [3]. Neste sentido, um diagrama deste tipo, exibido na Figura 2, foi desenvolvido para ilustrar quais atividades o sistema a ser desenvolvido executará para ser possível calcular o vencimento dos docentes.
 
