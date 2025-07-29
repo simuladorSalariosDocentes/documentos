@@ -1,4 +1,4 @@
-# 🌱 Documento Vue 3 contemplado recursos utilizado na implementação do simulador de salários  
+# 🌱 Documento Vue 3 contemplado recursos utilizados na implementação do simulador de salários  
 
 Este documento apresenta de forma sucinta os principais conceitos do **Vue 3** aliados ao **Vite** (empacotador moderno) e ao **Bootstrap** (framework CSS), com exemplos práticos de **componentes, rotas, views, emits e computed properties**.  
 
@@ -40,7 +40,7 @@ O **Bootstrap** é um dos frameworks CSS mais usados no mundo. Ele fornece **cla
 |--------|---------|
 | `container`, `row`, `col` | Layout responsivo |
 | `btn`, `btn-primary`, `btn-danger` | Botões estilizados |
-| `form-control` | Formulário estilizados |
+| `form-control` | Formulários estilizados |
 
 ---
 
@@ -182,6 +182,6 @@ Este documento apresentou detalhes e exemplos dos recursos do Vue 3 utilizados n
 - 🔹 **Bootstrap** para estilização rápida e responsiva.  
 - 🔹 **Rotas e Views** com `vue-router` para navegação.  
 - 🔹 **Computed properties** para cálculos reativos.  
-- 🔹 **Vite** como empacotador rápido e moderno.  
+- 🔹 **Vite** como empacotador do projeto.  
 
 ---
